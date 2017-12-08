@@ -10,4 +10,6 @@ var data = [
 
 var headers = ["Name", "Power"];
 
+
+
 console.table(data, headers);
